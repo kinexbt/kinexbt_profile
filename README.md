@@ -11,7 +11,7 @@
 
 **`Full-Stack Web3 Engineer · Systems Programmer · DeFi Infrastructure`**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://kinexbt.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://kinexbt.com)
 [![X](https://img.shields.io/badge/@kinexbt-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/kinexbt)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/kinexbt)
 
